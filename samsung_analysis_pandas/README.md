@@ -151,8 +151,9 @@ Samsung-Sales-Analysis/
 
 ## 📬 Contact
 
-* LinkedIn: (Add your link)
-* Email: (Add your email)
+* LinkedIn:    <a href="https://www.linkedin.com/in/priyadharshini2307/" target="_blank">
+
+* Email:   <a href="mailto:mpriyad23@gmail.com">
 
 ---
 
